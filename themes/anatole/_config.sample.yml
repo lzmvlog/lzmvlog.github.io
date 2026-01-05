@@ -1,7 +1,7 @@
 # Blog
 keywords: Hexo,HTML,CSS,android,Linux
-author: Author Name,name@example.com
-description: Nothing lasts forever.
+author: 是小张啊喂'S Blog,zhang1591313226@163.com
+description: '要么努力到出类拔萃，要么懒到乐知天命'
 avatar: /images/favicon.png
 
 # Social Accounts
@@ -9,7 +9,7 @@ twitter:
 rss: 
 weibo: 
 instagram: 
-github: 
+github: https://github.com/lzmvlog
 facebook: 
 
 # Comment
@@ -23,6 +23,6 @@ valine:
   appkey:  # your leancloud appkey
   notify: false # true/false:mail notify !!!Test,Caution. https://github.com/xCss/Valine/wiki/Valine-%E8%AF%84%E8%AE%BA%E7%B3%BB%E7%BB%9F%E4%B8%AD%E7%9A%84%E9%82%AE%E4%BB%B6%E6%8F%90%E9%86%92%E8%AE%BE%E7%BD%AE
   verify: false # true/false:verify code
-  avatar: mm # avatar style https://github.com/xCss/Valine/wiki/avatar-setting-for-valine
+  avatar: monsterid # avatar style https://github.com/xCss/Valine/wiki/avatar-setting-for-valine
   placeholder: Just go go # comment box placeholder
 
