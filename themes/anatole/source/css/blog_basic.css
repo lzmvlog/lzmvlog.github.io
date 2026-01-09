@@ -253,8 +253,8 @@ html {
                         ol ol, ul ul, ul ol, ol ul {
                           margin: 0.4em 0; }
 
-                          ul p, ol p, li p, .content li p, blockquote p, .content blockquote p,
-                          .post blockquote p, .post li p {
+                          ul p, ol p, li p, .content li p, .content blockquote p,
+                          .post li p {
                             margin: 0;
                             overflow: visible; }
 
@@ -295,20 +295,20 @@ blockquote p {
   margin: 0.8em 0;
   padding: 0.5em 1em; }
 
-          blockquote small {
-            display: inline-block;
-            margin: 0.8em 0 0.8em 1.5em;
-            font-size: 0.9em;
-            color: #ccc; }
+blockquote small {
+  display: inline-block;
+  margin: 0.8em 0 0.8em 1.5em;
+  font-size: 0.9em;
+  color: #ccc; }
 
-            blockquote small:before {
-              content: '\2014 \00A0'; }
+blockquote small:before {
+  content: '\2014 \00A0'; }
 
-              blockquote cite {
-                font-weight: bold; }
+blockquote cite {
+  font-weight: bold; }
 
-                blockquote cite a {
-                  font-weight: normal; }
+blockquote cite a {
+  font-weight: normal; }
 
                   mark {
                     background-color: #ffc336; }
