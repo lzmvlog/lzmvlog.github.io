@@ -92,3 +92,7 @@ payJsSDK.setPrepayId(prepay_id);
 ```
 
 以上就是微信JSAPI支付主要注意的点,其他的可以参考[微信支付](https://pay.weixin.qq.com/doc/v3/merchant/4012062524)
+
+> 博主可以有偿给需要的朋友提供微信支付的技术支持,有需要的朋友可以联系博主: <zhang1591313226@163.com>
+
+> 有全套的微信支付源码,包部署上线
