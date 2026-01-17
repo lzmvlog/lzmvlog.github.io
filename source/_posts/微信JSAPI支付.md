@@ -4,9 +4,7 @@ tags: [微信支付]
 date: 2026-01-17
 ---
 
-## 微信JSAPI支付
-
-需要准备的东西:
+做JSAPI前需要准备的东西:
 - 商户:
 1. appid:商户号
 2. apiv2:apiv2的支付密钥
@@ -30,8 +28,9 @@ date: 2026-01-17
 5. 支付成功后,
 
 > 这里有个坑:官方给的JS-SDK地址是 http://res.wx.qq.com/open/js/jweixin-1.6.0.js
-这里并不方便使用所以这里可以使用 `npm install weixin-js-sdk`
+这里并不方便,使用所以这里可以使用 `npm install weixin-js-sdk`
 
+## 代码示例
 ```js
 function onBridgeReady() {
     WeixinJSBridge.invoke('getBrandWCPayRequest', {
